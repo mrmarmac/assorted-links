@@ -6,10 +6,10 @@
     <description>Things worth reading, watching, or keeping.</description>
     <language>en</language>
     <item>
-      <title>arxiv.org</title>
+      <title>Function, cost, speed... over security?</title>
       <link>https://arxiv.org/pdf/2607.16660</link>
       <guid isPermaLink="false">issue-11</guid>
-      <pubDate>Tue, 15 Sep 2026 05:50:39 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 05:50:54 +0000</pubDate>
       <description>Software development industry is repeating historic software
 supply chain mistakes by prioritizing functionality, cost, and rapid deployment over security and component choices. (Aug 2026 paper)</description>
     </item>
