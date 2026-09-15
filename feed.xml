@@ -6,10 +6,17 @@
     <description>Things worth reading, watching, or keeping.</description>
     <language>en</language>
     <item>
+      <title>app.grayswan.ai</title>
+      <link>https://app.grayswan.ai/arena</link>
+      <guid isPermaLink="false">issue-8</guid>
+      <pubDate>Tue, 15 Sep 2026 05:40:20 +0000</pubDate>
+      <description>Get a sense for how people can (easily) break AI systems</description>
+    </item>
+    <item>
       <title>Characterizing Agentic Flooding of Government Services</title>
       <link>https://arxiv.org/abs/2608.16603</link>
       <guid isPermaLink="false">issue-7</guid>
-      <pubDate>Tue, 15 Sep 2026 05:37:56 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 05:38:09 +0000</pubDate>
       <description>Courts and other institutions need to be thinking about how to address this</description>
     </item>
     <item>
