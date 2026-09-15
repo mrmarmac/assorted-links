@@ -6,10 +6,17 @@
     <description>Things worth reading, watching, or keeping.</description>
     <language>en</language>
     <item>
+      <title>pnas.org</title>
+      <link>https://www.pnas.org/topic/584</link>
+      <guid isPermaLink="false">issue-9</guid>
+      <pubDate>Tue, 15 Sep 2026 05:42:47 +0000</pubDate>
+      <description>PNAS Special Feature explores how legal systems can help govern artificial intelligence and how AI is transforming the practice and study of law.</description>
+    </item>
+    <item>
       <title>app.grayswan.ai</title>
       <link>https://app.grayswan.ai/arena</link>
       <guid isPermaLink="false">issue-8</guid>
-      <pubDate>Tue, 15 Sep 2026 05:40:20 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 05:40:34 +0000</pubDate>
       <description>Get a sense for how people can (easily) break AI systems</description>
     </item>
     <item>
