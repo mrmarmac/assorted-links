@@ -6,10 +6,17 @@
     <description>Things worth reading, watching, or keeping.</description>
     <language>en</language>
     <item>
+      <title>Open Problems in AI Incident Governance</title>
+      <link>https://arxiv.org/abs/2607.05163</link>
+      <guid isPermaLink="false">issue-5</guid>
+      <pubDate>Tue, 15 Sep 2026 04:06:35 +0000</pubDate>
+      <description>Research paper informing frameworks for incident governance</description>
+    </item>
+    <item>
       <title>METR (@METR_Evals) on X</title>
       <link>https://x.com/METR_Evals/status/2082316155960885276?s=20</link>
       <guid isPermaLink="false">issue-4</guid>
-      <pubDate>Tue, 15 Sep 2026 04:04:05 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 04:04:23 +0000</pubDate>
       <description>Independent investigation guidelines proposal</description>
     </item>
     <item>
