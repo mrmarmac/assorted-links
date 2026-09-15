@@ -5,12 +5,6 @@
     <link>https://mrmarmac.github.io/assorted-links/</link>
     <description>Things worth reading, watching, or keeping.</description>
     <language>en</language>
-    <item>
-      <title>Pipeline test</title>
-      <link>https://example.com/</link>
-      <guid isPermaLink="false">issue-1</guid>
-      <pubDate>Tue, 15 Sep 2026 00:25:09 +0000</pubDate>
-      <description>Temporary end-to-end publication test after workflow compatibility fix.</description>
-    </item>
+
   </channel>
 </rss>
