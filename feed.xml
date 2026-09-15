@@ -5,6 +5,12 @@
     <link>https://mrmarmac.github.io/assorted-links/</link>
     <description>Things worth reading, watching, or keeping.</description>
     <language>en</language>
-
+    <item>
+      <title>Artificial Writing and Automated Detection</title>
+      <link>https://www.nber.org/papers/w34223</link>
+      <guid isPermaLink="false">issue-2</guid>
+      <pubDate>Tue, 15 Sep 2026 03:54:13 +0000</pubDate>
+      <description>Can we prove whether text is AI generated?</description>
+    </item>
   </channel>
 </rss>
