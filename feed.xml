@@ -5,6 +5,12 @@
     <link>https://mrmarmac.github.io/assorted-links/</link>
     <description>Things worth reading, watching, or keeping.</description>
     <language>en</language>
-
+    <item>
+      <title>Pipeline test</title>
+      <link>https://example.com/</link>
+      <guid isPermaLink="false">issue-1</guid>
+      <pubDate>Tue, 15 Sep 2026 00:23:54 +0000</pubDate>
+      <description>Temporary end-to-end publication test.</description>
+    </item>
   </channel>
 </rss>
