@@ -6,6 +6,13 @@
     <description>Things worth reading, watching, or keeping.</description>
     <language>en</language>
     <item>
+      <title>AI Safety for Everyone</title>
+      <link>https://www.nature.com/articles/s42256-025-01020-y.epdf?sharing_token=Z9BsAXteM26WJJ9_gLJlUNRgN0jAjWel9jnR3ZoTv0M2hBnl4BFV-fphuswXTnw0qVytOX-J9_AO8xbBtxfzUjDBxCcI8vvd3uLD0lFtA15WMs6KqPmCtv1K9arykdWt7s3sNEuWalV79z-AHAv5-xlUKGVLpLNxxCNW9pbXe5s%3D</link>
+      <guid isPermaLink="false">issue-12</guid>
+      <pubDate>Wed, 16 Sep 2026 19:00:18 +0000</pubDate>
+      <description>AI safety is a term used in many ways, here is a considered view about what it ought to mean.</description>
+    </item>
+    <item>
       <title>Function, cost, speed... over security?</title>
       <link>https://arxiv.org/pdf/2607.16660</link>
       <guid isPermaLink="false">issue-11</guid>
